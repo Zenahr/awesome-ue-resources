@@ -17,4 +17,23 @@ Repo: https://github.com/redcatbox/CameraVolumes
 Video demo: https://www.youtube.com/watch?v=EwlmB75D5YE
 Blog post: https://forums.unrealengine.com/t/camera-volumes-system-for-side-scroller-games/120624
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EwlmB75D5YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Smooth third person camera by Andrew (andyrst)
+
+Repo: https://github.com/andyrst/TPSSmoothCamera
+
+Features:
+
+- Smooth Camera back flight while no actual collision is - occurred
+- Fly to above the character head for better desired view - (depending by current Spring Arm lenght)
+- Blueprint only
+- Fully commented
+
+### CameraDirectorKit by pgii
+
+Repo: https://github.com/pgii/CameraDirectorKit
+
+Video demos:
+
+- https://youtu.be/YFRBUfTinSM
+
+- https://youtu.be/R2Wwe7cJcvs
