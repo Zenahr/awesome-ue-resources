@@ -56,5 +56,7 @@ Video demos:
 
 
 [Marketplace link (FREE)](https://www.unrealengine.com/marketplace/en-US/product/action-camera-manager)
+
 [Demo video](https://www.youtube.com/watch?v=iWDMIVvR27I)
+
 [Setup video guide](https://www.youtube.com/watch?v=7N1cTe_sLFk)
