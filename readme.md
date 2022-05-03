@@ -60,3 +60,10 @@ Video demos:
 [Demo video](https://www.youtube.com/watch?v=iWDMIVvR27I)
 
 [Setup video guide](https://www.youtube.com/watch?v=7N1cTe_sLFk)
+
+
+### Quake style camera roll, actor component by 2Madre
+
+[Demo](https://www.youtube.com/watch?v=8IefgBLqAh0&ab_channel=2Madre)
+
+[Download link (uasset)](https://mega.nz/file/krhBiQBY#X5iDmjFcdEXaoTupPuoVy4VzDdbqw9bxrQlDaiSb3Lc)
